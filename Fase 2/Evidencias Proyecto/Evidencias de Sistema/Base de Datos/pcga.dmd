@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="pcga" id="F4DC525F-BD84-15A2-9FAA-C72D0B50B59A" version="3.5">
+<createdBy>abele</createdBy>
+<createdTime>2026-10-08 00:29:21 UTC</createdTime>
+<ownerDesignName>pcga</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>F4DC525F-BD84-15A2-9FAA-C72D0B50B59A</designId>
+</OSDM_Design>
