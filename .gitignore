@@ -90,3 +90,4 @@ Desktop.ini
 *.sublime-project
 *.sublime-workspace
 .vs/
+.env*
